@@ -5,9 +5,8 @@ Proyecto de desarrollo de software para la Municipalidad Distrital de El Tambo.
 ## Integrantes
 - Mandujano Coronel, Gean Carlos — Backend Lead
 - Lagones Briceño, Will — Frontend / Móvil
-- Quispe Salas, Mónica — QA / DevOps
 
-- Salazar Yauri, Javier — QA / DevOp
+
 ## Contenido del repositorio
 - informe/ — Informe técnico del proyecto
 - presentacion/ — Presentación PPT
